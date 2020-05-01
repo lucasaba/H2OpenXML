@@ -2,7 +2,7 @@
     "name": "lucasaba/h2open-xml",
     "description": "Simple PHP script which take HTML code and transform it into OpenXML Code. (for Docx)",
     "type": "library",
-    "license": "GNU GPL 3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Luca Saba",
